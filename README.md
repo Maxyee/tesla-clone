@@ -1,6 +1,6 @@
 # Tesla Clone
 
-![alt text](https://github.com/Maxyee/tesla-clone/blob/master/screenshot/tesla-clone.png)
+![alt text](https://github.com/Maxyee/tesla-clone/blob/master/ScreenShot/tesla-clone.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
